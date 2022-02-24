@@ -11,8 +11,8 @@ const Welcome = () => (
             I am a determined and motivated individual with
             a keen interest in Web Development. I have completed my Tertiary studies in
             2018 with a Bachelor of Science at University of Canberra and recently, a Certificate
-            IV in Business Administration at Canberra Institute of Technology. Right now, I am currently
-            studying Web Development by undertaking an online course in Udemy with Zero to Mastery Academy and
+            IV in Business Administration at Canberra Institute of Technology. I have recently completed
+            an online course about Web Development in Udemy with Zero to Mastery Academy and
             I am looking forward to my journey in becoming a Web Developer in the near future. 
          </p>
     </div>
