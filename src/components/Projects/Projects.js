@@ -4,7 +4,6 @@ import './Projects.css';
 
 const Projects = () =>  (
   <section id="projects">
-    {/* <div className="section-divider" /> */}
       <h2>Projects</h2>
       <section className="grid-container"> 
         {projects.map(({ id, image, title, description, visit }) => (
@@ -16,7 +15,7 @@ const Projects = () =>  (
             </div>
             <p>{description}</p>
             <ul className="utility-list">
-              <a className="external-links" href={visit}>Check it out!</a>
+              <a className="external-links" href={visit} target='_blank' rel="noreferrer">Check it out!</a>
             </ul>
           </div>
         ))}

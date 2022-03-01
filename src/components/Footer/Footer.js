@@ -22,13 +22,13 @@ const Footer = () => (
                 </p>
               </div>
           <div className='social-container'>
-          <a className='social-icons' href="https://github.com/RamosLM10" target="_blank">
+          <a className='social-icons' href="https://github.com/RamosLM10" target="_blank" rel="noreferrer">
           <AiFillGithub size="3.5rem"/>
         </a>
-        <a className='social-icons' href="https://facebook.com/luis.m.ramos.9" target="_blank">
+        <a className='social-icons' href="https://facebook.com/luis.m.ramos.9" target="_blank" rel="noreferrer">
           <AiFillFacebook size="3.5rem"/>
         </a>
-        <a className='social-icons' href="https://www.linkedin.com/in/luis-ramos-45b2001b8/" target="_blank">
+        <a className='social-icons' href="https://www.linkedin.com/in/luis-ramos-45b2001b8/" target="_blank" rel="noreferrer">
           <AiFillLinkedin size="3.5rem"/>
         </a>
           </div> 
