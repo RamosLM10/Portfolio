@@ -18,11 +18,19 @@ const projects = [
     },
     {
       title: 'Football Aplenty',
-      description: "Utilising an API to display Football Leagues and Standings",
+      description: "Utilising an API to display Football Leagues and Standings.",
       image: '/images/footballthmb.png',
       tags: ['HTML','CSS', 'JavaScript', 'React'],
       visit: 'https://football-aplenty.netlify.app/',
       id: 2,
+    },
+    {
+      title: 'Football Highlights',
+      description: "Utilising an API to display recent Football Highlights from ScoreBat.",
+      image: '/images/highlightsthmb.png',
+      tags: ['HTML','CSS', 'JavaScript', 'React'],
+      visit: 'https://football-highlights-recent.netlify.app/',
+      id: 3,
     }
 ]
 
