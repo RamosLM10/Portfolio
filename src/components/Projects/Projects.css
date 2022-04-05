@@ -81,19 +81,19 @@ img {
 }
 
 .grid-container {
-    display: flex;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    display: grid;
+    /* grid-template-columns: repeat(auto-fill, minmax(400px, 3fr)); */
+    grid-template-columns: repeat(2, 1fr);
     padding-top: 1rem;
     place-items: center;
     column-gap: 5rem;
     row-gap: 3rem;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 865px) {
     .grid-container {
         display: flex;
         flex-direction: column;
-        /* padding: 2rem; */
         padding-bottom: 0;
     }
 }

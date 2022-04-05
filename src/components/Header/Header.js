@@ -8,8 +8,8 @@ const Header = () =>  (
     <div className='container'>
       <div className='div-1'>
         <Link activeClass='active' to='home'spy={true} smooth={true}>
-          <a style={{ display:"flex", alignItems:"center", color:"#B90E0A", marginBottom:"20px", cursor:"pointer" }}>
-            <CgAbstract size="5rem" /> <span>L.Ramos</span>
+          <a style={{ display:"flex", color:"#B90E0A", marginBottom:"10px", cursor:"pointer" }}>
+            <CgAbstract size="4rem" /> <span>L.Ramos</span>
           </a>
         </Link>
       </div>

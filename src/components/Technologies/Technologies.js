@@ -4,7 +4,6 @@ import './Technologies.css'
 
 const Technologies = () => (
   <section id="tech">
-    {/* <div className='section-divider' /> */}
       <h2 className='section-title'>Technologies</h2>
         <p className='section-text'>
         I have learned and played around strictly with Front-End technologies but eventually would like to learn also about 
