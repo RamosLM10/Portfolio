@@ -32,14 +32,14 @@ const projects = [
       visit: 'https://football-highlights-recent.netlify.app/',
       id: 3,
     },
-    {
-      title: 'Music Website',
-      description: "Created a music website that uses styled-components, tilt and smooth scroll  ",
-      image: '/images/musicthmb.png',
-      tags: ['HTML','Styled-Components', 'JavaScript', 'React'],
-      visit: 'https://music-site-creative.netlify.app/',
-      id: 4,
-    }
+    // {
+    //   title: 'Music Website',
+    //   description: "Created a music website that uses styled-components, tilt and smooth scroll  ",
+    //   image: '/images/musicthmb.png',
+    //   tags: ['HTML','Styled-Components', 'JavaScript', 'React'],
+    //   visit: 'https://music-site-creative.netlify.app/',
+    //   id: 4,
+    // }
 ]
 
 export default projects
