@@ -16,14 +16,14 @@ const projects = [
       visit: 'https://blondiez-browniez.netlify.app/',
       id: 1,
     },
-    {
-      title: 'Football Aplenty',
-      description: "Utilising an API to display Football Leagues and Standings.",
-      image: '/images/footballthmb.png',
-      tags: ['HTML','CSS', 'JavaScript', 'React'],
-      visit: 'https://football-aplenty.netlify.app/',
-      id: 2,
-    },
+    //{
+     // title: 'Football Aplenty',
+     // description: "Utilising an API to display Football Leagues and Standings.",
+     // image: '/images/footballthmb.png',
+     // tags: ['HTML','CSS', 'JavaScript', 'React'],
+     // visit: 'https://football-aplenty.netlify.app/',
+     // id: 2,
+   // },
     {
       title: 'Football Highlights',
       description: "Utilising an API to display recent Football Highlights from ScoreBat.",
@@ -32,14 +32,14 @@ const projects = [
       visit: 'https://football-highlights-recent.netlify.app/',
       id: 3,
     },
-    // {
-    //   title: 'Music Website',
-    //   description: "Created a music website that uses styled-components, tilt and smooth scroll  ",
-    //   image: '/images/musicthmb.png',
-    //   tags: ['HTML','Styled-Components', 'JavaScript', 'React'],
-    //   visit: 'https://music-site-creative.netlify.app/',
-    //   id: 4,
-    // }
+     {
+       title: 'Music Website',
+       description: "Created a music website that uses styled-components, tilt and smooth scroll  ",
+       image: '/images/musicthmb.png',
+       tags: ['HTML','Styled-Components', 'JavaScript', 'React'],
+       visit: 'https://music-site-creative.netlify.app/',
+       id: 4,
+     }
 ]
 
 export default projects
