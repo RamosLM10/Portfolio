@@ -11,7 +11,7 @@ const Welcome = () => (
             I am a determined and motivated individual with
             a keen interest in Web Development and Cyber Security. I have completed my Tertiary studies in
             2018 with a Bachelor of Science at University of Canberra. I have completed
-            an online course for Web Development with Zero to Mastery Academy have also recently finished
+            an online course for Web Development with Zero to Mastery Academy and have also recently finished
             a Certificate IV in Cyber Security. 
          </p>
     </div>
